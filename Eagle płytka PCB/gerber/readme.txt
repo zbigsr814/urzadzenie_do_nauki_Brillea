@@ -1,0 +1,1 @@
+Model płytki PCB można zobaczyć na stronie: https://www.pcbway.com/project/OnlineGerberViewer.html

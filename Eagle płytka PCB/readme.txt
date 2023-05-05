@@ -1,0 +1,1 @@
+Pliki brd i sch w tym katalogu to gotowe pliki do uruchmienia w programie Kicad.
