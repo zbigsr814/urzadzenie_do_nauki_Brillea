@@ -7,5 +7,5 @@ Jest to urządzenie do nauki języka Brillea dla dzieci niedowidzących. Urządz
 - Wykonanie programu na Arduino. Program odpowiedzialny za: obsługę odbioru danych przez Bluetooth, wysterowanie odpowiednich diod, sterowanie jasnością świecenia, odbiór danych z potencjometru.
 
 - Projekt płytki PCB w Kicadzie. Płytka odpowiada m.in. za wzmocnienie sygnałów GPIO Arduino przez zastosowanie tranzystorów BC-547. Wzmocnione sygnały docierają na diody. Płytka pośredniczy między Arduino a resztą urządzenia. 
-
+ 
 - Projekt obudowy urządzenia wykonanej w DesignSparks. Urządzenie miało być przeznaczone dla dzieci więc obudowa nie zawierała ostrych krawędzi, ścianki obudowy są odpowiednio grube. Wyznaczono sekcję dla zasilania bateryjnego i dla reszty elektroniki. Obudowę wykonano na drukarce 3D.
